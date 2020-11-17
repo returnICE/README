@@ -1,5 +1,7 @@
 # Let Eat, Go 프로젝트
 
+# Project 정리
+https://www.notion.so/81f5ce3c89904f6592f3203e1e5e76c3
 
 ### Demo Page
 http://ajoucapstoneweb.s3-website.ap-northeast-2.amazonaws.com/
