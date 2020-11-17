@@ -1,4 +1,4 @@
-# frontend
+# Let Eat, Go 프로젝트
 
 
 ### Demo Page
