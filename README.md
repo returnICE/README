@@ -70,26 +70,3 @@ http://ajoucapstoneweb.s3-website.ap-northeast-2.amazonaws.com/
 
 ### SOFTCON
 ![판넬-SW캡스톤-팀명-1](https://user-images.githubusercontent.com/38278199/95114786-6ca62180-077f-11eb-9f1a-5d1c9dc27c2b.png)
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
